@@ -1,0 +1,4 @@
+name: melos_demo
+
+packages:
+  - packages/*
